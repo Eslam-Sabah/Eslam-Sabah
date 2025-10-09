@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hey there, I'm Eslam Nahle!</h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/8d/92/fc/8d92fcf7ef6b97c3a2da64c3a7a9074b.gif" width="250"/>
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <b>Computer Science Student | Cybersecurity & Data Analysis Enthusiast</b>
 </p>
