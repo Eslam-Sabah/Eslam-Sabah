@@ -1,10 +1,15 @@
 <div align="center" width="50">
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Islam+Sabah;Cyber+Security+%7C+Networks;Data+Science+Student;Web+Developer;Future+Penetration+Tester" />
+
+<br><br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/IslamSabah" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/IslamSabah" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Learning Cyber Security :   </summary> </strong></p>
+<p><strong> <summary>  Busy coding, Securing Networks & Exploring Data :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
 
@@ -12,12 +17,13 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=IslamSabah&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamSabah&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/IslamSabah-grey?style=flat&logo=telegram)](https://t.me/your_username) <br>
+[![telegram badge](https://img.shields.io/badge/IslamSabah-grey?style=flat&logo=telegram)](https://t.me/your_username)
+
 </div>
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -34,17 +40,88 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// tools_I_use organized & upgraded
 
 class About extends Me { 
   const myTools = {  
-    "CyberSecurity" : { "Networking", "Penetration Testing", "Nmap", "Wireshark" },
-    "DataScience" : { "Python", "Pandas", "NumPy", "Matplotlib" },
-    "ProgramingLanguages" : { "Python", "C++", "Java", "Javascript", "C" },
-    "WebDevelopment" : { "HTML", "CSS", "JavaScript" },
-    "Database" : { "MySQL", "Sqlite" },
-    "Editors" : { "VSCode", "IntelliJ IDEA" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma" }
+
+    "CyberSecurity" : { 
+      "Network Security", 
+      "Penetration Testing", 
+      "Vulnerability Assessment",
+      "Nmap", 
+      "Wireshark",
+      "Metasploit (Learning)"
+    },
+
+    "DataScience" : { 
+      "Python", 
+      "Pandas", 
+      "NumPy", 
+      "Matplotlib",
+      "Data Cleaning",
+      "Data Analysis"
+    },
+
+    "ProgramingLanguages" : { 
+      "Python", 
+      "C++", 
+      "Java", 
+      "Javascript", 
+      "C" 
+    },
+
+    "WebDevelopment" : { 
+      "HTML5", 
+      "CSS3", 
+      "JavaScript",
+      "Responsive Design"
+    },
+
+    "Database" : { 
+      "MySQL", 
+      "Sqlite" 
+    },
+
+    "Editors" : { 
+      "VSCode", 
+      "IntelliJ IDEA" 
+    },
+
+    "Platforms" : { 
+      "GNU/Linux", 
+      "Windows" 
+    },
+
+    "OtherTools" : { 
+      "Git", 
+      "Figma" 
+    }
   };
 }
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IslamSabah&theme=matrix&no-frame=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IslamSabah&show_icons=true&theme=tokyonight" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IslamSabah&theme=tokyonight" width="47%" />
+
+</div>
+
+---
+
+<h3 align="center">🔐 Stay Ethical. Stay Secure. Keep Learning.</h3>
