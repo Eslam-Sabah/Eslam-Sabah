@@ -10,9 +10,9 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourGitHubUsername&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/IslamSabah-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUsername) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=IslamSabah&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamSabah&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/IslamSabah-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
@@ -32,17 +32,19 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
 // tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", "C", "Python", "Java", "Javascript" },
+    "ProgramingLanguages" : { "C++", "C", "Python", "Java", "Javascript", "Dart", "Go" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown", "JSON" },
-    "Database" : { "Firebase", "SQLite" },
-    "Editors" : { "Vscode", "Neovim" },
+    "Database" : { "Firebase", "SQLite", "PostgreSQL" },
+    "Editors" : { "Vscode", "Neovim", "Sublime" },
     "Platforms" : { "Windows", "GNU/Linux", "Mac" },
-    "OtherTools" : { "Git", "Figma" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
