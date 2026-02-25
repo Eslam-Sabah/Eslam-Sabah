@@ -1,50 +1,78 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Eslam Sabah</h1>
+<h3 align="center">🔐 Network Engineer & Cybersecurity Specialist</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+---
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
+## 🧑‍💻 About Me
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+- 🎓 Network & Cybersecurity Engineer  
+- 🌍 Based in Cairo, Egypt  
+- 🛡️ Passionate about Security, Networks & Ethical Hacking  
+- 💻 Currently improving my skills in Penetration Testing  
+- 📫 Reach me at: 692500673@ecu.edu.eg  
 
-</details>
+---
 
-![Totals Hits](https://komarev.com/ghpvc/?username=IslamSabah&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamSabah&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/IslamSabah-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/eslam-sabah-28958204/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-006400?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CyberSecurity-013220?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eslam-Sabah&show_icons=true&theme=chartreuse-dark&count_private=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-Sabah&theme=chartreuse-dark" width="49%" />
+
 </div>
 
-<hr></hr>
+<br>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+<div align="center">
 
-```dart
-// tools_I_use organized
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Sabah&layout=compact&theme=chartreuse-dark" width="40%" />
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C++", "C", "Python", "Java", "Javascript", "Dart", "Go" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown", "JSON" },
-    "Database" : { "Firebase", "SQLite", "PostgreSQL" },
-    "Editors" : { "Vscode", "Neovim", "Sublime" },
-    "Platforms" : { "Windows", "GNU/Linux", "Mac" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Eslam-Sabah/Eslam-Sabah/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Eslam-Sabah&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam-Sabah" />
+</p>
+
+---
+
+⭐ From [Eslam-Sabah](https://github.com/Eslam-Sabah)
